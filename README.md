@@ -1,6 +1,6 @@
 If you made it this far, here's a little about me.
 
-# Hi 👋 I'm Patrícia Rosa
+# Hi
 
 ```jsx
 function App() {
