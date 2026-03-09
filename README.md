@@ -2,6 +2,7 @@ If you made it this far, here's a little about me.
 
 # Hi 👋 I'm Patrícia Rosa
 
+```jsx
 function App() {
   return (
     <Developer
@@ -12,6 +13,7 @@ function App() {
     />
   )
 }
+```
 
 I enjoy building mobile and web applications, focusing on user experience, clean code, and maintainable interfaces.
 
