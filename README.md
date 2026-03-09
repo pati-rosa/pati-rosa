@@ -1,6 +1,6 @@
-If you made it this far, here's a little about me.
+# Hi :)
 
-# Hi
+If you made it this far, here's a little about me.
 
 ```jsx
 function App() {
