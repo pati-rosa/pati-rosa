@@ -1,39 +1,22 @@
+If you made it this far, here's a little about me.
+
 # Hi 👋 I'm Patrícia Rosa
 
-I'm a software engineer focused on building **mobile and web applications** using **React and React Native**.
+function App() {
+  return (
+    <Developer
+      name="Patrícia Rosa"
+      role="Software Engineer"
+      stack={["React", "React Native", "TypeScript", "JavaScript", "CSS"]}
+      passion="Building clean and scalable mobile & web interfaces"
+    />
+  )
+}
 
-I enjoy working on user interfaces, improving application performance, and creating products that provide a great user experience.
+I enjoy building mobile and web applications, focusing on user experience, clean code, and maintainable interfaces.
 
-## Technologies
+## What you'll find here
 
-* React
-* React Native
-* TypeScript
-* JavaScript
-
-## What you'll find on my GitHub
-
-This GitHub contains a mix of:
-
-* Coding challenges and algorithm practice
-* Small projects and experiments
-* Frontend and React-based applications
-
-## Coding practice
-
-I regularly solve coding challenges to improve my problem-solving skills and strengthen my understanding of algorithms and data structures.
-
-You can find some of these exercises here:
-👉 https://github.com/pati-rosa/react-pratices
-👉 https://github.com/pati-rosa/leetcode
-
-## Interests
-
-* Frontend architecture
-* Mobile development
-* Performance optimization
-* Building scalable user interfaces
-
-## Connect with me
-
-* LinkedIn: https://linkedin.com/in/patirosa
+- React and React Native projects
+- Coding challenges and algorithm practice
+- Experiments and small apps
